@@ -2,7 +2,7 @@
 ## Title: HandyNotes: |cff00d9ffBoralus RP Spots|r
 ## Notes: Explore the best spots to roleplay in Boralus!
 ## Author: Oraibi
-## Version: 0.361
+## Version: 9.0.5.1 (0.360)
 ## DefaultState: enabled
 ## SavedVariables: HandyNotes_BoralusRPDB
 ## RequiredDeps: HandyNotes
