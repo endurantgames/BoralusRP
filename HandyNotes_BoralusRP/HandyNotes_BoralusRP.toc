@@ -1,0 +1,24 @@
+## Interface: 90005
+## Title: HandyNotes: |cff00d9ffBoralus RP Spots|r
+## Notes: Explore the best spots to roleplay in Boralus!
+## Author: Oraibi
+## Version: 0.361
+## DefaultState: enabled
+## SavedVariables: HandyNotes_BoralusRPDB
+## RequiredDeps: HandyNotes
+Libs\HereBeDragons\HereBeDragons-2.0.lua
+Const\const-color.lua
+Const\const-text.lua
+Const\const-links.lua
+Const\const-zones.lua
+Utils\utils-text.lua
+Const\const-options.lua
+Utils\utils-icons.lua
+Const\const-icons.lua
+Const\const-range.lua
+Utils\utils-points.lua
+Data\load_data.xml
+Const\const-search.lua
+Utils\utils-search.lua
+Utils\utils-frames.lua
+Core\load_core.xml
